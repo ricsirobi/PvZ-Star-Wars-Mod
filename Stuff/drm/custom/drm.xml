@@ -1,0 +1,10 @@
+﻿<Properties>
+  <Bullets id="main" font="!sys:Arial:9,bold" width="406">
+<Bullet id="Bullet1" image="custom\images\bullet1">Play 50 Adventure levels through night, fog, a pool and more.</Bullet>
+<Bullet id="Bullet2" image="custom\images\bullet2" spacing="10">Unlock all five game modes and the Almanac.</Bullet>
+<Bullet id="Bullet3" image="custom\images\bullet3">Battle 26 types of zombies and earn 49 zombie-zapping plants.</Bullet>
+</Bullets>
+  <String id="CopyrightDisclaimer">©2009 PopCap Games, Inc. Full copyright and trademark information is available in the game's README file. All rights reserved.</String>
+  <String id="BuyURL">steam://store/3590</String>
+  <String id="CopyrightDisclaimer">©2009 PopCap Games, Inc. Full copyright and trademark information is available in the game's README file. All rights reserved.</String>
+</Properties>

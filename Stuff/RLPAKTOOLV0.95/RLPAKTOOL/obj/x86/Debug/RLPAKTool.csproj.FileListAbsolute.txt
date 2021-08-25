@@ -1,0 +1,60 @@
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL_NameSpace.RLPAKTool.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL_NameSpace.Properties.Resources.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL_NameSpace.SplitMessagesDialog.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL_NameSpace.FindReplace.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\bin\Debug\RLPAKTOOL.exe
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\bin\Debug\RLPAKTOOL.pdb
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL.exe
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL.pdb
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL_NameSpace.RenameBox.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\obj\x86\Debug\RLPAKTool.csprojResolveAssemblyReference.cache
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool\WindowsFormsApplication1\obj\x86\Debug\RLPAKTool.csproj.GenerateResource.Cache
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL.exe
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL.pdb
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\bin\Debug\RLPAKTOOL.exe
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\bin\Debug\RLPAKTOOL.pdb
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\obj\x86\Debug\RLPAKTool.csprojResolveAssemblyReference.cache
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL_NameSpace.FindReplace.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL_NameSpace.RLPAKTool.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL_NameSpace.Properties.Resources.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL_NameSpace.RenameBox.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\obj\x86\Debug\RLPAKTOOL_NameSpace.SplitMessagesDialog.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\WindowsFormsApplication1\obj\x86\Debug\RLPAKTool.csproj.GenerateResource.Cache
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL.exe
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\Little Busters Script tool - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL.pdb
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL.exe
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL.pdb
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\bin\Debug\RLPAKTOOL.exe
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\bin\Debug\RLPAKTOOL.pdb
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTool.csprojResolveAssemblyReference.cache
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.FindReplace.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.RLPAKTool.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.Properties.Resources.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.RenameBox.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.SplitMessagesDialog.resources
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTool.csproj.GenerateResource.Cache
+C:\Users\patr0805\Documents\Visual Studio 2010\Projects\RLPAKTOOL\RLPAKTOOL\bin\Debug\RLPAKTOOL.exe.config
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\bin\Debug\RLPAKTOOL.exe.config
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL.exe
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL.pdb
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\bin\Debug\RLPAKTOOL.exe
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\bin\Debug\RLPAKTOOL.pdb
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTool.csprojResolveAssemblyReference.cache
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.FindReplace.resources
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.RLPAKTool.resources
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.Properties.Resources.resources
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.RenameBox.resources
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.SplitMessagesDialog.resources
+D:\Projects\Little Busters\RLPAKTOOL\RLPAKTOOL\obj\x86\Debug\RLPAKTool.csproj.GenerateResource.Cache
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\bin\Debug\RLPAKTOOL.exe.config
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL.exe
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL.pdb
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\bin\Debug\RLPAKTOOL.exe
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\bin\Debug\RLPAKTOOL.pdb
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTool.csprojResolveAssemblyReference.cache
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.FindReplace.resources
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.RlpakTool.resources
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.Properties.Resources.resources
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.RenameBox.resources
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTOOL_NameSpace.SplitMessagesDialog.resources
+D:\Projects\Little Busters\RLPAKTOOL - Kopi (2)\RLPAKTOOL\obj\x86\Debug\RLPAKTool.csproj.GenerateResource.Cache

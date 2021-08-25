@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Properties>
+	<Layout screen="EndScreen">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background" />
+		<Image x="114" y="246" halign="center" valign="center" src="game" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Image x="418" y="266" halign="center" valign="center" src="!prog:return gBulletManager:GetImage('main')" />
+		<Text halign="center" valign="center" x="218" y="192" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageEndScreenPreBullet" />
+		<Text halign="center" valign="center" x="218" y="325" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageEndScreenPostBullet" />
+		<Text halign="center" valign="center" x="218" y="157" width="399" height="21" color="#CC0000" font="!sys:Arial:10,bold" id="!prog:gScreen:GetTimeLeftString()" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Button id="Finish" x="209" y="381" normal="common/images/btn_finish" over="common/images/btn_finish2" applyMask="common/images/btn_mask" function="Finish" />
+		<Button id="BuyNow" x="416" y="381" normal="common/images/btn_buynow" over="common/images/btn_buynow2" applyMask="common/images/btn_mask" function="BuyNow" />
+	</Layout>
+
+	<Layout screen="ExpireScreen">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background" />
+		<Image x="114" y="224" halign="center" valign="center" src="!prog:return GetDrmSS()" />
+		<Image x="114" y="245" halign="center" valign="center" src="common/images/ssframe" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Image x="418" y="266" halign="center" valign="center" src="!prog:return gBulletManager:GetImage('main')" />
+		<Image x="213" y="370" applyMask="common/images/btn_mask" src="common/images/btn_play3" />
+		<Text halign="center" valign="center" x="218" y="192" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageExpireScreenPreBullet" />
+		<Text halign="center" valign="center" x="218" y="325" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageExpireScreenPostBullet" />
+		<Text halign="center" valign="center" x="218" y="157" width="399" height="21" color="#CC0000" font="!sys:Arial:12,bold" id="HeaderExpireTimeLeftLabel" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Button id="BuyNow" x="420" y="370" normal="common/images/btn_buynow" over="common/images/btn_buynow2" applyMask="common/images/btn_mask" function="BuyNow" />
+	</Layout>
+
+	<Layout screen="RegSucceeded">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background_centered" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Text halign="center" valign="center" x="84" y="157" width="474" height="20" color="#CC0000" font="!sys:Arial:12,bold" id="HeaderRegSucceeded" />
+		<Text halign="center" valign="center" x="13" y="190" width="614" height="36" color="#FF6600" font="!sys:Arial:9,bold" id="MessageRegSucceeded" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Button id="Continue" x="213" y="381" normal="common/images/btn_continue" over="common/images/btn_continue2" applyMask="common/images/btn_mask" function="Continue" />
+	</Layout>
+
+	<Layout screen="TrialScreen">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background" />
+		<Image x="114" y="246" halign="center" valign="center" src="game" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Image x="418" y="266" halign="center" valign="center" src="!prog:return gBulletManager:GetImage('main')" />
+		<Text halign="center" valign="center" x="218" y="192" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageTrialScreenPreBullet" />
+		<Text halign="center" valign="center" x="218" y="325" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageTrialScreenPostBullet" />
+		<Text halign="center" valign="center" x="218" y="157" width="399" height="21" color="#CC0000" font="!sys:Arial:10,bold" id="!prog:gScreen:GetTimeLeftString()" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Button id="Play" x="209" y="381" normal="common/images/btn_play" over="common/images/btn_play2" applyMask="common/images/btn_mask" function="Play" />
+		<Button id="BuyNow" x="416" y="381" normal="common/images/btn_buynow" over="common/images/btn_buynow2" applyMask="common/images/btn_mask" function="BuyNow" />
+	</Layout>
+
+	<String id="CopyrightDisclaimer">© 2000-2006 PopCap Games, Inc. All rights reserved.&cr;PopCap, PopCap Games and Zuma are registered trademarks of PopCap Games, Inc.</String>
+	<String id="CustomerSupportURL">http://www.popcap.com/help.php</String>
+	<String id="DetailsRegSucceeded">Thanks for purchasing and registering your PopCap game!</String>
+	<String id="EditFont">FONT_ARIAL9BOLD</String>
+	<String id="HeaderExpireTimeLeftLabel">YOUR 60-MINUTE TRIAL IS OVER.</String>
+	<String id="HeaderRegSucceeded">CONGRATULATIONS!</String>
+	<String id="HeaderTimeLeftLabelPlural">YOU ONLY HAVE %d MINUTES OF FREE GAMEPLAY LEFT!</String>
+	<String id="HeaderTimeLeftLabelSingular">YOU ONLY HAVE %d MINUTE OF FREE GAMEPLAY LEFT!</String>
+	<String id="Help">Help</String>
+	<String id="MessageEndScreenPostBullet">No CD or Download necessary. It's easy!</String>
+	<String id="MessageEndScreenPreBullet">Buy the game today before your 60-minute trial expires!</String>
+	<String id="MessageExpireScreenPostBullet">No CD or Download necessary. It's easy!</String>
+	<String id="MessageExpireScreenPreBullet">Buy the game today to keep playing!</String>
+	<String id="MessageExpireScreenshot">Buy the game to jump back into play!</String>
+	<String id="MessageRegSucceeded">You have successfully registered and unlocked this game.</String>
+	<String id="MessageTrialScreenPostBullet">No CD or Download necessary. It's easy!</String>
+	<String id="MessageTrialScreenPreBullet">Buy the game today before your 60-minute trial expires!</String>
+	<String id="Privacy">Privacy</String>
+	<String id="ReadmeURL">readme.html</String>
+	<String id="Security">Security</String>
+	<String id="StoreURL">http://store.popcap.com/</String>
+	<String id="TextletFont0">FONT_ARIAL10</String>
+	<String id="TextletFont1">FONT_ARIAL10BOLD</String>
+	<String id="TextletHeaderFont">FONT_ARIAL12BOLD</String>
+</Properties>
